@@ -1,0 +1,13 @@
+Flask
+scikit-learn==1.2.2
+numpy==1.26.2
+joblib==1.4.2
+pyarabic==0.6.15
+nltk==3.9.1
+gensim==4.3.3
+keras==2.15.0 
+tensorflow==2.15.0
+python-dotenv
+torch
+transformers==4.40.2
+gunicorn

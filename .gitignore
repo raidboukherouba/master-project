@@ -1,0 +1,8 @@
+node_modules/
+client/dist/
+word2_vec/
+models/
+__pycache__/
+*.pt
+*.pkl
+*.h5
